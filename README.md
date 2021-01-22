@@ -1,7 +1,7 @@
 ### Hi there, I'm Vivek Shukla 👋
 
 
-## I'm a Developer and Artist!!
+## I'm a Developer!!
 
 - 🌱 I'm currently working in [Agrahyah Technologies][website]!
 - 🌱 I’m currently learning everything 🤣
